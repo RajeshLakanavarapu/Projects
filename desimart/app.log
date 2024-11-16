@@ -1,0 +1,6 @@
+LoginScreen - INFO - Opened Login Screen
+LoginController - INFO - Opened Login Controller
+mysql.connector - INFO - package: mysql.connector.plugins
+mysql.connector - INFO - plugin_name: caching_sha2_password
+mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+LoginController - INFO - (80021, 'test2@gmail.com', 'test', '2', 'test123')

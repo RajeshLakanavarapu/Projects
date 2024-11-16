@@ -1,0 +1,11 @@
+database:
+  host: localhost
+  # 127.0.0.1
+  port: 3306
+  user: root
+  password: 'YaGnA@123$#$'
+  database: desimart
+
+
+application:
+  name: "Desimart"
